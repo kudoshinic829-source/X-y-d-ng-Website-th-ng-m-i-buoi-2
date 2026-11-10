@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+*.log
+/public/uploads/products/*
+!/public/uploads/products/.gitkeep
+!/public/uploads/products/thumbs/
+/public/uploads/products/thumbs/*
+!/public/uploads/products/thumbs/.gitkeep
